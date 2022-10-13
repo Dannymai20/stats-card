@@ -32,8 +32,6 @@ Desktop Version
 - Live Site URL: [Live Demo](https://dannymai20.github.io/stats-card/)
 
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
